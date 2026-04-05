@@ -11,3 +11,6 @@ dist/
 .langgraph_api/
 .DS_Store
 .claude/
+.idea
+
+
